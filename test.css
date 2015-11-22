@@ -1,0 +1,57 @@
+#header {
+  background-color:#333333;
+  color:Snow;
+  text-align:center;
+}
+#header1 {
+  color:Snow;
+  background-color:DarkBlue;
+  height:450px;
+}
+#section {
+  color:SlateGray;
+  text-align:left;
+  padding:20px
+}
+#section1 {
+  color:SlateGray;
+  text-align:center;
+  padding:20px;
+}
+#section3 {
+  color:Snow;
+  background-color:#2DB82D;
+  text-align:left;
+  padding:20px;
+}
+#section4 {
+  color:Snow;
+  background-color:#E69400;
+  text-align:left;
+  padding:20px;
+}
+#section5 {
+  color:Snow;
+  background-color:#00E6E6;
+  text-align:left;
+  padding:20px;
+}
+#footer {
+  background-color:DarkBlue;
+  height:450px;
+}
+ .city {
+  border: 1px solid white;
+  margin: 120px auto 120px auto;
+  padding:5px;
+}
+ .city1 {
+  border: 1px solid white;
+  margin:25px;
+  padding:5px;
+}
+.parallax-window {
+  min-height: 400px;
+  background: transparent;
+}
+
